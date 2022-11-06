@@ -2,7 +2,7 @@
 
 *Max 8.3*
 
-This Jitter Effect displaces a plane of a texture a noise texture.<br/> 
+This Jitter Effect displaces a plane of a texture with a noise texture.<br/> 
 The controls are:<br/>
 **xDim**: x-dimension of the noise texture<br/>
 **yDim**: y-dimension of the noise texture<br/>
